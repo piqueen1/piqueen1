@@ -1,10 +1,10 @@
 ### I'm Finn! 👋
 
-## I'm a Developer and a Linguist with a passion for coding 💃
+## I'm a Developer and a Linguist with a great love of coding 💃
 
 -   📸   I’m currently concentrating on improving my skills in Gatsby, React, Python and GraphQL
--   ❤️    I speak and read Spanish, French, Portuguese, German and Arapaho!  I love ASL too!
--   👯   I’m looking for full-time remote work opportunities
+-   ❤️    I speak and read Spanish, French, Portuguese, German, English and Arapaho!  I love ASL too!
+-   👯   I’m actively looking for full-time remote work opportunities
 -   🥅   2021 Goals: Contribute to a dynamic, enthusiastic dev team, learn tons of languages, and write lots of blog posts!
 
 ### Connect with me:
