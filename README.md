@@ -2,10 +2,10 @@
 
 ## I'm a Developer and a Linguist with a passion for coding 💃
 
--   📸 I’m currently learning React.js and Python
+-   📸 I’m currently concentrating on improving my skills in React.js and Python
 -   ❤️ I speak and read Spanish, French, Portuguese, German and Arapaho!  I love ASL too!
 -   👯 I’m looking for full-time remote work opportunities
--   🥅 2021 Goals: Contribute to a dynamic, enthusiastic dev team and learn tons of languages
+-   🥅 2021 Goals: Contribute to a dynamic, enthusiastic dev team, learn tons of languages, and write lots of blog posts!
 
 ### Connect with me:
 
