@@ -1,6 +1,6 @@
 ### I'm Finn! 👋
 
-## I'm a Front End Developer and a Linguist
+## I'm a Developer and a Linguist with a passion for coding 💃
 
 -   📸 I’m currently learning React.js and Python
 -   ❤️ I speak and read Spanish, French, Portuguese, German and Arapaho!  I love ASL too!
